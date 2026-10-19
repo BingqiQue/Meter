@@ -123,3 +123,7 @@ xcodebuild -project Meter/Meter.xcodeproj \
 ## 开发状态
 
 项目处于持续开发阶段，尚未配置 App Store 发布流程。欢迎通过 Issue 记录问题；测光问题请附上设备型号、iOS 版本、所用镜头和复现步骤。
+
+## 许可证
+
+本项目采用 [MIT License](LICENSE)。欢迎使用、修改和分发，包括商业用途；请保留版权声明和许可证文本。
